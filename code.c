@@ -3,7 +3,6 @@
 #include<conio.h>
 void main
 {
-int low,high,medium;
 int count;
 int a,b=4,c=7;
 a=b/c*0.7
