@@ -5,6 +5,9 @@ void main
 {
 int low,high,medium;
 int count;
+int a,b=4,c=7;
+a=b/c*0.7
+printf("the estimated battery life is:%d",b);
 printf("enter the number of count of batteries");
 scanf("%d",&count);
 if(count<400)
